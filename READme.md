@@ -1,7 +1,11 @@
-# FastAPI Learning Project
+# FastAPI Application (Learning Sandbox)
 
-## This repository is a learning artifact and is not presented as a production-ready or original product.
+*This repository documents my journey learning FastAPI to build production-grade Machine Learning APIs.*
 
-This repository contains a full-stack FastAPI application implemented for the purpose of learning FastAPI concepts such as authentication, async routes, dependency injection, and request validation.
+> **Note:** This project follows the architecture and best practices from Cory Schafer's FastAPI curriculum. I have implemented the code manually to build muscle memory in:
+> * **Authentication** (OAuth2 with Password Hashing)
+> * **Pydantic Models** (Data Validation)
+> * **SQLAlchemy** (ORM & Database Relations)
+> * **Async/Await** patterns
 
-The structure and flow follow a guided tutorial, but the code was written manually to understand real-world FastAPI application design patterns and best practices.
+**Purpose:** This is a learning artifact. My goal is to apply these backend skills to deploy my future End-to-End Deep Learning projects.
